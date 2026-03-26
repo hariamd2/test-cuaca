@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "cuaca": [
+        [
+          { "t": 28, "hu": 70, "tp": 0, "weather_desc": "Berawan" },
+          { "t": 28, "hu": 70, "tp": 0, "weather_desc": "Berawan" },
+          { "t": 28, "hu": 70, "tp": 0, "weather_desc": "Berawan" },
+          { "t": 28, "hu": 70, "tp": 0, "weather_desc": "Berawan" }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "cuaca": [
+        [
+          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "Hujan" },
+          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "Hujan" },
+          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "Hujan" },
+          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "Hujan" }
+        ]
+      ]
+    }
+  ]
+}

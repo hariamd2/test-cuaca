@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "cuaca": [
+        [
+          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" }
+        ]
+      ]
+    }
+  ]
+}
