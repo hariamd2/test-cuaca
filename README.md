@@ -1,5 +1,6 @@
 # test-cuaca
-hujan
-kering
-normal
-panasdankering
+- hujan
+- kering
+- normal
+- panasdankering
+- batassuhu
