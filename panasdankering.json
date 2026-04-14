@@ -3,10 +3,10 @@
     {
       "cuaca": [
         [
-          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
-          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
-          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" },
-          { "t": 33, "hu": 50, "tp": 0, "weather_desc": "Cerah" }
+          { "t": 33, "hu": 75, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 75, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 75, "tp": 0, "weather_desc": "Cerah" },
+          { "t": 33, "hu": 75, "tp": 0, "weather_desc": "Cerah" }
         ]
       ]
     }
