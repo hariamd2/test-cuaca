@@ -3,10 +3,10 @@
     {
       "cuaca": [
         [
-          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "berawan" },
-          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "berawan" },
-          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "berawan" },
-          { "t": 24, "hu": 85, "tp": 5, "weather_desc": "berawan" }
+          { "t": 24, "hu": 92, "tp": 5, "weather_desc": "berawan" },
+          { "t": 24, "hu": 92, "tp": 5, "weather_desc": "berawan" },
+          { "t": 24, "hu": 92, "tp": 5, "weather_desc": "berawan" },
+          { "t": 24, "hu": 92, "tp": 5, "weather_desc": "berawan" }
         ]
       ]
     }
